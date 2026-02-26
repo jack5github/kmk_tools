@@ -16,3 +16,7 @@ Keymaster's Keep is a dynamic, multi-game objective/challenge generator that sea
 - Your goal will either be to collect enough *Artifacts of Resolve* to unlock a final challenge to beat, or to escape the keep with a certain number of *Magic Keys* or *Conquest Medallions* in hand.
 
 ![KMK Available Trials tab](images/trials.png)
+
+---
+
+*Guide written by [silasary](https://github.com/silasary)*
